@@ -1,4 +1,4 @@
-# material_house.
+# material-house.
 
 Materials and objects inside a house defined using Dart's OOP.
 
